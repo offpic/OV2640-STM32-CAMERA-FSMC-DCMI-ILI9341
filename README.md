@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=auUfHaCEUIE
 
 ![OV2640 STM32 FSMC DCMI ILI9341](https://user-images.githubusercontent.com/31142397/226148153-018e712b-b18d-4ccf-aed3-80778022f73e.jpg)
 
-OV2640    STM32
+OV2640        STM32
 
 HREF = DCMI_HSYNC
 
